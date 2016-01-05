@@ -1,0 +1,14 @@
+int a,b,c,d,e,f,g;
+double da,db,dc,dd,de;
+a=12*5;
+b=a/2;
+c=a+b;
+da=a*b+c;
+print(a);
+print(b);
+print(c);
+print(da);
+da=da/2;
+print(da);
+db=da+a/b;
+print(db);

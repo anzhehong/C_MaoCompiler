@@ -1,0 +1,17 @@
+int a;
+double x, y,dcc;
+int b, c, d; 
+int element;
+a=5.5; 
+x=y=(1+a)*6.44; 
+a+4;
+a=a/2; 
+print(a); 
+y=(c+6)*-(1+1); 
+print(y); 
+d=a/(2/5); 
+element=7;
+print(element);
+dcc=element*a;
+print(dcc);
+print(d);
